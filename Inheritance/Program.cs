@@ -36,8 +36,8 @@ namespace Inheritance
             Console.WriteLine($"{Woody.Name} is a bird {Woody.Age} years old that has {Woody.Wings} wings and {Woody.Legs}  legs " +
                 $"{Woody.HasFeathers},{Woody.CanFly},{Woody.IsAlive}, and his beak is {Woody.BeakSize}");
             Console.WriteLine($"Woody can fly, has feathers, and is very much alive ");
-            Console.WriteLine();
-
+            
+            Console.WriteLine("------------------------------");
             /*Create an object of your Bird class
              *  give values to your members using the object of your Bird class
              *  
