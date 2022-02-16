@@ -10,7 +10,7 @@ namespace Inheritance
         public bool IsScaley { get; set; }
         public string Habtat { get; set; }
         public double Length { get; set; }
-        public bool IsAlive { get; set; }
+        public bool IsaLive { get; set; }
 
         public Reptile()
         {
